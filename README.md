@@ -1,7 +1,4 @@
 # BatchGuard
-
-Based on [taxiobf](https://github.com/cchash/taxiobf).
-
 Rushed batch file obfuscation tool I made in a few hours. Not all features complete, potentially buggy, and not "as secure" as I want to final product to be. Messy code abound. Only thing for sure is that all "obfuscation" options added right now work.
 
 Updates will come soon.
