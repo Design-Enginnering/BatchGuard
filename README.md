@@ -19,7 +19,7 @@ pause
 
 Output:
 ```bat
-਍敀档⁯景൦挊獬਍敳汴捯污攠慮汢摥汥祡摥硥慰獮潩൮猊瑥䈠啇剁彄畒乚䭢佮䕑㜽㠰㐵㌱㈶ഹ猊瑥䈠啇剁彄兆楸攰䄹ぐ渽歵硨灬慶楳睺瑲祢敪杯捭煤൦猊瑥䈠啇剁彄啧眱䕣乙づ刽啌䕋䍆偗噔塂兊䅈䑎䝉婏奍൓┊䝂䅕䑒䙟硑ど㥥偁㨰㥾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰸ┱䈥啇剁彄兆楸攰䄹ぐ縺㐱ㄬ‥┢䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰱ┱䈥啇剁彄啧眱䕣乙づ縺〲ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰㉾ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰶ┱䈥啇剁彄啧眱䕣乙づ縺ⰰ┱䈥啇剁彄啧眱䕣乙づ縺㠱ㄬ弥䈥啇剁彄啧眱䕣乙づ縺㈲ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰱ┱䈥啇剁彄兆楸攰䄹ぐ縺ⰳ┱䈥啇剁彄畒乚䭢佮䕑縺ⰶ┱䈥啇剁彄畒乚䭢佮䕑縺ⰷ┱䈥啇剁彄兆楸攰䄹ぐ縺ⰲ┱䈥啇剁彄兆楸攰䄹ぐ縺㈲ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰㉾ⰵ┱┽䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰸ┱䈥啇剁彄兆楸攰䄹ぐ縺㈲ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰㍾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰹ┱┠䝂䅕䑒䙟硑ど㥥偁㨰㍾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰸ┱䈥啇剁彄兆楸攰䄹ぐ縺ⰵ┱ഢ┊䝂䅕䑒䙟硑ど㥥偁㨰㥾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰸ┱䈥啇剁彄兆楸攰䄹ぐ縺㐱ㄬ‥┢䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰱ┱䈥啇剁彄啧眱䕣乙づ縺〲ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰㉾ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰶ┱䈥啇剁彄啧眱䕣乙づ縺ⰰ┱䈥啇剁彄啧眱䕣乙づ縺㠱ㄬ弥䈥啇剁彄兆楸攰䄹ぐ縺ㄲㄬ┥䝂䅕䑒剟婵扎湋兏㩅㥾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰵ┱䈥啇剁彄兆楸攰䄹ぐ縺ⰵ┱䈥啇剁彄兆楸攰䄹ぐ縺ⰰ┱䈥啇剁彄啧眱䕣乙づ縺㜱ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰㝾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰まㄬ㴥䈥啇剁彄兆楸攰䄹ぐ縺ⰵ┱䈥啇剁彄兆楸攰䄹ぐ縺㤱ㄬ‥䈥啇剁彄兆楸攰䄹ぐ縺㈱ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰹ┱䈥啇剁彄兆楸攰䄹ぐ縺㌱ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰㕾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰㉾ⰳ┱ഢ┊䝂䅕䑒䙟硑ど㥥偁㨰㥾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰸ┱䈥啇剁彄兆楸攰䄹ぐ縺㐱ㄬ‥┢䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰱ┱䈥啇剁彄啧眱䕣乙づ縺〲ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰㉾ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰶ┱䈥啇剁彄啧眱䕣乙づ縺ⰰ┱䈥啇剁彄啧眱䕣乙づ縺㠱ㄬ弥䈥啇剁彄啧眱䕣乙づ縺ⰶ┱䈥啇剁彄啧眱䕣乙づ縺㠱ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰵ┱䈥啇剁彄啧眱䕣乙づ縺ⰲ┱䈥啇剁彄啧眱䕣乙づ縺〲ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰㉾ⰳ┱䈥啇剁彄兆楸攰䄹ぐ縺㔲ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰㥾ㄬ㴥╀䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰸ┱䈥啇剁彄兆楸攰䄹ぐ縺㈲ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰㍾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰹ┱┠䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰹ┱䈥啇剁彄兆楸攰䄹ぐ縺㔲ㄬ∥਍䈥啇剁彄兆楸攰䄹ぐ縺ⰹ┱䈥啇剁彄兆楸攰䄹ぐ縺㠱ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰴ┱∠䈥啇剁彄啧眱䕣乙づ縺ㄱㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰㉾ⰰ┱䈥啇剁彄啧眱䕣乙づ縺ⰲ┱䈥啇剁彄啧眱䕣乙づ縺㘱ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰まㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰸ┱╟䝂䅕䑒䙟硑ど㥥偁㨰㉾ⰱ┱䈥啇剁彄兆楸攰䄹ぐ縺〲ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰㉾ⰱ┱䈥啇剁彄啧眱䕣乙づ縺㤱ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰵ┱䈥啇剁彄啧眱䕣乙づ縺ⰸ┱䈥啇剁彄啧眱䕣乙づ縺㐲ㄬ┥䝂䅕䑒剟婵扎湋兏㩅ㅾㄬ㴥䈥啇剁彄兆楸攰䄹ぐ縺ⰵ┱䈥啇剁彄兆楸攰䄹ぐ縺㤱ㄬ‥䈥啇剁彄兆楸攰䄹ぐ縺㈱ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰹ┱䈥啇剁彄兆楸攰䄹ぐ縺㌱ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰㕾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰㉾ⰳ┱ഢ┊䝂䅕䑒䙟硑ど㥥偁㨰㥾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰸ┱䈥啇剁彄兆楸攰䄹ぐ縺㐱ㄬ‥┢䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰱ┱䈥啇剁彄啧眱䕣乙づ縺〲ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰㉾ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰶ┱䈥啇剁彄啧眱䕣乙づ縺ⰰ┱䈥啇剁彄啧眱䕣乙づ縺㠱ㄬ弥䈥啇剁彄畒乚䭢佮䕑縺ⰴ┱䈥啇剁彄兆楸攰䄹ぐ縺ⰰ┱䈥啇剁彄兆楸攰䄹ぐ縺〱ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰰ┱䈥啇剁彄啧眱䕣乙づ縺ⰱ┱䈥啇剁彄兆楸攰䄹ぐ縺ⰱ┱䈥啇剁彄兆楸攰䄹ぐ縺ⰳ┱䈥啇剁彄兆楸攰䄹ぐ縺㌱ㄬ㴥䈥啇剁彄兆楸攰䄹ぐ縺㠱ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰㉾ⰲ┱䈥啇剁彄兆楸攰䄹ぐ縺ⰳ┱䈥啇剁彄兆楸攰䄹ぐ縺㤱ㄬ‥唥䕳灲潒楦敬∥਍䈥啇剁彄兆楸攰䄹ぐ縺ⰹ┱䈥啇剁彄兆楸攰䄹ぐ縺㠱ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰴ┱∠䈥啇剁彄啧眱䕣乙づ縺ㄱㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰㉾ⰰ┱䈥啇剁彄啧眱䕣乙づ縺ⰲ┱䈥啇剁彄啧眱䕣乙づ縺㘱ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰まㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰸ┱╟䝂䅕䑒束ㅕ捷奅敎㨰㉾ⰵ┱䈥啇剁彄啧眱䕣乙づ縺ⰳ┱䈥啇剁彄啧眱䕣乙づ縺㐱ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰㉾ⰱ┱䈥啇剁彄兆楸攰䄹ぐ縺㔱ㄬ┥䝂䅕䑒剟婵扎湋兏㩅㙾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰳ┱䈥啇剁彄啧眱䕣乙づ縺ⰷ┱┽䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰸ┱䈥啇剁彄兆楸攰䄹ぐ縺㈲ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰㍾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰹ┱┠䝂䅕䑒䙟硑ど㥥偁㨰㍾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰸ┱䈥啇剁彄兆楸攰䄹ぐ縺ⰵ┱ഢ┊䝂䅕䑒䙟硑ど㥥偁㨰㥾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰸ┱䈥啇剁彄兆楸攰䄹ぐ縺㐱ㄬ‥┢䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰱ┱䈥啇剁彄啧眱䕣乙づ縺〲ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰㉾ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰶ┱䈥啇剁彄啧眱䕣乙づ縺ⰰ┱䈥啇剁彄啧眱䕣乙づ縺㠱ㄬ弥䈥啇剁彄兆楸攰䄹ぐ縺㔲ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰㉾ⰴ┱䈥啇剁彄兆楸攰䄹ぐ縺ⰲ┱䈥啇剁彄畒乚䭢佮䕑縺ⰸ┱┯䝂䅕䑒䙟硑ど㥥偁㨰㕾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰱ┱䈥啇剁彄啧眱䕣乙づ縺㤱ㄬ㴥㸠┠䝂䅕䑒䙟硑ど㥥偁㨰㍾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰰ┱┮䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰴ┱䈥啇剁彄兆楸攰䄹ぐ縺ⰴ┱ഢ┊䝂䅕䑒䙟硑ど㥥偁㨰㥾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰸ┱䈥啇剁彄兆楸攰䄹ぐ縺㐱ㄬ‥┢䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰱ┱䈥啇剁彄啧眱䕣乙づ縺〲ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰㉾ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰶ┱䈥啇剁彄啧眱䕣乙づ縺ⰰ┱䈥啇剁彄啧眱䕣乙づ縺㠱ㄬ弥┯䝂䅕䑒剟婵扎湋兏㩅まㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰹ┱䈥啇剁彄啧眱䕣乙づ縺㈲ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰷ┱䈥啇剁彄啧眱䕣乙づ縺㔲ㄬ┥䝂䅕䑒剟婵扎湋兏㩅㕾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰶ┱┽䝂䅕䑒䙟硑ど㥥偁㨰㉾ⰵ┱ഢ┊䝂䅕䑒䙟硑ど㥥偁㨰㥾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰸ┱䈥啇剁彄兆楸攰䄹ぐ縺㐱ㄬ‥┢䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰱ┱䈥啇剁彄啧眱䕣乙づ縺〲ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰㉾ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰶ┱䈥啇剁彄啧眱䕣乙づ縺ⰰ┱䈥啇剁彄啧眱䕣乙づ縺㠱ㄬ弥䈥啇剁彄啧眱䕣乙づ縺ⰶ┱䈥啇剁彄畒乚䭢佮䕑縺ⰷ┱䈥啇剁彄畒乚䭢佮䕑縺ⰶ┱䈥啇剁彄畒乚䭢佮䕑縺ⰲ┱䈥啇剁彄兆楸攰䄹ぐ縺ⰶ┱䈥啇剁彄畒乚䭢佮䕑縺ⰲ┱䈥啇剁彄兆楸攰䄹ぐ縺〱ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰷ┱┽䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰴ┱ഢ┊䝂䅕䑒䙟硑ど㥥偁㨰㥾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰸ┱䈥啇剁彄兆楸攰䄹ぐ縺㐱ㄬ‥┢䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰱ┱䈥啇剁彄啧眱䕣乙づ縺〲ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰㉾ㄬ┥䝂䅕䑒束ㅕ捷奅敎㨰ㅾⰶ┱䈥啇剁彄啧眱䕣乙づ縺ⰰ┱䈥啇剁彄啧眱䕣乙づ縺㠱ㄬ弥䈥啇剁彄畒乚䭢佮䕑縺ⰱ┱䈥啇剁彄啧眱䕣乙づ縺ⰰ┱䈥啇剁彄兆楸攰䄹ぐ縺ⰵ┱䈥啇剁彄啧眱䕣乙づ縺ㄲㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰㉾ⰳ┱䈥啇剁彄啧眱䕣乙づ縺㔲ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰㉾ⰴ┱䈥啇剁彄畒乚䭢佮䕑縺ⰸ┱┽䝂䅕䑒䙟硑ど㥥偁㨰㙾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰㡾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰㥾ㄬ┥䝂䅕䑒䙟硑ど㥥偁㨰ㅾⰸ┱ഢ┊䝂䅕䑒䍟䡄䝕晤╳䈥啇剁彄㜯婯卪礱ഥ┊䝂䅕䑒卟克扭爳╗䈥啇剁彄杭䥏偈すഥ┊䝂䅕䑒婟桺㘳捫╦䈥啇剁彄㥭汢乮湗┥䝂䅕䑒晟歙⼲穬╉䈥啇剁彄㙃㠳㡰橩ഥ┊䝂䅕䑒㑟楮䱩桵╲਍䈥啇剁彄到佬卤㉱ഥഊ
+਍敀档⁯景൦挊獬਍敳汴捯污攠慮汢摥汥祡摥硥慰獮潩൮猊瑥䈠啇剁彄䩦㙤㥄き㕃匽佒䍅䱗允䭔䩘乖啄䥚䵆偂䝈൙猊瑥䈠啇剁彄捑楩敪奭歹㜽〱㔳㤶㈴സ猊瑥䈠啇剁彄婔剓㥌㥊䥕戽湸癥睩桲捤穧獰汯浵晱歪祴ൡ猊瑥∠䝂䅕䑒牟㉧㍦㉮㴷┠䝂䅕䑒呟博䱒䨹唹㩉㡾ㄬ┥䝂䅕䑒呟博䱒䨹唹㩉㍾ㄬ┥䝂䅕䑒呟博䱒䨹唹㩉ㅾⰶ┱ഢ猊瑥∠䝂䅕䑒敟夲ㅈ䍹㵭䈥啇剁彄婔剓㥌㥊䥕縺㌲ㄬ∥਍敳⁴䈢啇剁彄䍕浰潪剋┽䝂䅕䑒呟博䱒䨹唹㩉ㅾⰵ┱┠䝂䅕䑒呟博䱒䨹唹㩉ㅾⰵ┱䈥啇剁彄婔剓㥌㥊䥕縺〲ㄬ∥਍敳⁴䈢啇剁彄堹慙ㅐ片‽‾䈥啇剁彄婔剓㥌㥊䥕縺ⰸ┱ഢ猊瑥∠䝂䅕䑒灟啨牧㑚㵦䈥啇剁彄婔剓㥌㥊䥕縺ⰳ┱䈥啇剁彄婔剓㥌㥊䥕縺〱ㄬ┥䝂䅕䑒呟博䱒䨹唹㩉㡾ㄬ┥䝂䅕䑒呟博䱒䨹唹㩉ㅾⰵ┱ഢ猊瑥∠䝂䅕䑒䵟乮婳兲㵩┠卵剥牰䙯䱩╅ഢ猊瑥∠䝂䅕䑒䭟佫晍䰵㴸䈥啇剁彄婔剓㥌㥊䥕縺㘱ㄬ┥䝂䅕䑒呟博䱒䨹唹㩉ㅾⰵ┱┠䝂䅕䑒呟博䱒䨹唹㩉㙾ㄬ∥਍敳⁴䈢啇剁彄睗ぅ爷獡┽䝂䅕䑒呟博䱒䨹唹㩉㍾ㄬ∥਍敳⁴䈢啇剁彄佺獒敉攰∽਍敳⁴䈢啇剁彄穋癍印武┽䝂䅕䑒呟博䱒䨹唹㩉㍾ㄬ┥䝂䅕䑒呟博䱒䨹唹㩉ㅾⰰ┱䈥啇剁彄婔剓㥌㥊䥕縺ⰸ┱䈥啇剁彄婔剓㥌㥊䥕縺㔱ㄬ∥਍敳⁴䈢啇剁彄浰㘵汅歪┽䝂䅕䑒呟博䱒䨹唹㩉㕾ㄬ⸥䈥啇剁彄婔剓㥌㥊䥕縺㌲ㄬ┥䝂䅕䑒呟博䱒䨹唹㩉ㅾㄬ∥਍敳⁴䈢啇剁彄䙭㥳獺䙋┽䝂䅕䑒呟博䱒䨹唹㩉ㅾⰶ┱䈥啇剁彄婔剓㥌㥊䥕縺㔱ㄬ‥䈥啇剁彄婔剓㥌㥊䥕縺ⰶ┱ഢ猊瑥∠䝂䅕䑒⽟㔹坐䍕㵉䈥啇剁彄婔剓㥌㥊䥕縺〲ㄬ∥਍敳⁴䈢啇剁彄普䵏浅之┽䝂䅕䑒呟博䱒䨹唹㩉ㅾⰵ┱䈥啇剁彄婔剓㥌㥊䥕縺ⰷ┱䈥啇剁彄婔剓㥌㥊䥕縺㘱ㄬ┥䝂䅕䑒呟博䱒䨹唹㩉㥾ㄬ∥਍敳⁴䈢啇剁彄硢兯䍺⽌┽䝂䅕䑒呟博䱒䨹唹㩉ㅾⰳ┱䈥啇剁彄婔剓㥌㥊䥕縺㔲ㄬ┥䝂䅕䑒呟博䱒䨹唹㩉ㅾⰷ┱䈥啇剁彄婔剓㥌㥊䥕縺㐱ㄬ∥਍敳⁴䈢啇剁彄䭕䡪浢奅‽䈥啇剁彄婔剓㥌㥊䥕縺ⰸ┱䈥啇剁彄婔剓㥌㥊䥕縺ⰳ┱䈥啇剁彄婔剓㥌㥊䥕縺㘱ㄬ∥਍敳⁴䈢啇剁彄堲䵳硩啸┽䝂䅕䑒呟博䱒䨹唹㩉ㅾⰵ┱䈥啇剁彄婔剓㥌㥊䥕縺ⰷ┱䈥啇剁彄婔剓㥌㥊䥕縺㘱ㄬ┥䝂䅕䑒呟博䱒䨹唹㩉㥾ㄬ∥਍敳⁴䈢啇剁彄噘㍍杤汃┽䝂䅕䑒呟博䱒䨹唹㩉㍾ㄬ┥䝂䅕䑒呟博䱒䨹唹㩉ㅾⰰ┱䈥啇剁彄婔剓㥌㥊䥕縺ⰸ┱䈥啇剁彄婔剓㥌㥊䥕縺㔱ㄬ∥਍敳⁴䈢啇剁彄歑⽤㝫匶䀽䈥啇剁彄婔剓㥌㥊䥕縺ⰳ┱䈥啇剁彄婔剓㥌㥊䥕縺〱ㄬ┥䝂䅕䑒呟博䱒䨹唹㩉㡾ㄬ∥਍䈥啇剁彄歑⽤㝫匶┥䝂䅕䑒啟灃橭䭯╒䈥啇剁彄㤯倵啗䥃ഥ┊䝂䅕䑒灟啨牧㑚╦䈥啇剁彄杲昲渳㜲┥䝂䅕䑒䭟佫晍䰵┸䈥啇剁彄普䵏浅之┥䝂䅕䑒穟剏䥳づ╥਍䈥啇剁彄噘㍍杤汃┥䝂䅕䑒啟橋扈䕭╙䈥啇剁彄䙭㥳獺䙋┥䝂䅕䑒㉟獘楍硸╕䈥啇剁彄堹慙ㅐ片┥䝂䅕䑒灟㕭䔶橬╫䈥啇剁彄㉥䡙礱浃ഥ┊䝂䅕䑒䭟䵺灶晓╫䈥啇剁彄湍獎牚楑ഥ┊䝂䅕䑒扟潸穑䱃┯䈥啇剁彄睗ぅ爷獡ഥഊ
 ```
 
 Output without UTF-16 BOM:
@@ -27,24 +27,33 @@ Output without UTF-16 BOM:
 @echo off
 cls
 setlocal enabledelayedexpansion
-set BGUARD_M0NbtObX0y=9184732560
-set BGUARD_1pl7DboSME=TUIDNZRLWKOHMXJPCVQABESGYF
-set BGUARD_HUynqAAbqE=esijvnxpyqdzobuakcgmfhlwtr
-%BGUARD_HUynqAAbqE:~1,1%%BGUARD_HUynqAAbqE:~0,1%%BGUARD_HUynqAAbqE:~24,1% "%BGUARD_1pl7DboSME:~20,1%%BGUARD_1pl7DboSME:~23,1%%BGUARD_1pl7DboSME:~1,1%%BGUARD_1pl7DboSME:~19,1%%BGUARD_1pl7DboSME:~6,1%%BGUARD_1pl7DboSME:~3,1%_%BGUARD_HUynqAAbqE:~11,1%%BGUARD_1pl7DboSME:~13,1%%BGUARD_M0NbtObX0y:~0,1%%BGUARD_1pl7DboSME:~25,1%%BGUARD_1pl7DboSME:~21,1%%BGUARD_HUynqAAbqE:~25,1%%BGUARD_HUynqAAbqE:~7,1%%BGUARD_1pl7DboSME:~25,1%=%BGUARD_HUynqAAbqE:~0,1%%BGUARD_HUynqAAbqE:~17,1%%BGUARD_HUynqAAbqE:~21,1%%BGUARD_HUynqAAbqE:~12,1% %UserprOFILE%"
-%BGUARD_HUynqAAbqE:~1,1%%BGUARD_HUynqAAbqE:~0,1%%BGUARD_HUynqAAbqE:~24,1% "%BGUARD_1pl7DboSME:~20,1%%BGUARD_1pl7DboSME:~23,1%%BGUARD_1pl7DboSME:~1,1%%BGUARD_1pl7DboSME:~19,1%%BGUARD_1pl7DboSME:~6,1%%BGUARD_1pl7DboSME:~3,1%_%BGUARD_M0NbtObX0y:~8,1%%BGUARD_HUynqAAbqE:~6,1%%BGUARD_HUynqAAbqE:~24,1%%BGUARD_HUynqAAbqE:~15,1%%BGUARD_1pl7DboSME:~25,1%%BGUARD_1pl7DboSME:~10,1%%BGUARD_M0NbtObX0y:~2,1%%BGUARD_1pl7DboSME:~12,1%=@%BGUARD_HUynqAAbqE:~0,1%%BGUARD_HUynqAAbqE:~17,1%%BGUARD_HUynqAAbqE:~21,1%%BGUARD_HUynqAAbqE:~12,1% %BGUARD_HUynqAAbqE:~12,1%%BGUARD_HUynqAAbqE:~20,1%"
-%BGUARD_HUynqAAbqE:~1,1%%BGUARD_HUynqAAbqE:~0,1%%BGUARD_HUynqAAbqE:~24,1% "%BGUARD_1pl7DboSME:~20,1%%BGUARD_1pl7DboSME:~23,1%%BGUARD_1pl7DboSME:~1,1%%BGUARD_1pl7DboSME:~19,1%%BGUARD_1pl7DboSME:~6,1%%BGUARD_1pl7DboSME:~3,1%_%BGUARD_1pl7DboSME:~17,1%%BGUARD_HUynqAAbqE:~6,1%%BGUARD_1pl7DboSME:~22,1%%BGUARD_HUynqAAbqE:~25,1%%BGUARD_HUynqAAbqE:~25,1%%BGUARD_HUynqAAbqE:~5,1%%BGUARD_1pl7DboSME:~16,1%%BGUARD_HUynqAAbqE:~0,1%=%BGUARD_HUynqAAbqE:~0,1%%BGUARD_HUynqAAbqE:~17,1%%BGUARD_HUynqAAbqE:~21,1%%BGUARD_HUynqAAbqE:~12,1% %BGUARD_HUynqAAbqE:~21,1%%BGUARD_HUynqAAbqE:~0,1%%BGUARD_HUynqAAbqE:~22,1%"
-%BGUARD_HUynqAAbqE:~1,1%%BGUARD_HUynqAAbqE:~0,1%%BGUARD_HUynqAAbqE:~24,1% "%BGUARD_1pl7DboSME:~20,1%%BGUARD_1pl7DboSME:~23,1%%BGUARD_1pl7DboSME:~1,1%%BGUARD_1pl7DboSME:~19,1%%BGUARD_1pl7DboSME:~6,1%%BGUARD_1pl7DboSME:~3,1%_%BGUARD_HUynqAAbqE:~16,1%%BGUARD_1pl7DboSME:~17,1%%BGUARD_HUynqAAbqE:~5,1%%BGUARD_1pl7DboSME:~2,1%%BGUARD_1pl7DboSME:~15,1%%BGUARD_HUynqAAbqE:~18,1%%BGUARD_HUynqAAbqE:~23,1%%BGUARD_1pl7DboSME:~21,1%=%BGUARD_HUynqAAbqE:~20,1%"
-%BGUARD_HUynqAAbqE:~1,1%%BGUARD_HUynqAAbqE:~0,1%%BGUARD_HUynqAAbqE:~24,1% "%BGUARD_1pl7DboSME:~20,1%%BGUARD_1pl7DboSME:~23,1%%BGUARD_1pl7DboSME:~1,1%%BGUARD_1pl7DboSME:~19,1%%BGUARD_1pl7DboSME:~6,1%%BGUARD_1pl7DboSME:~3,1%_%BGUARD_1pl7DboSME:~16,1%%BGUARD_1pl7DboSME:~24,1%/%BGUARD_1pl7DboSME:~22,1%%BGUARD_M0NbtObX0y:~7,1%%BGUARD_HUynqAAbqE:~13,1%%BGUARD_1pl7DboSME:~12,1%%BGUARD_HUynqAAbqE:~6,1%=%BGUARD_HUynqAAbqE:~7,1%%BGUARD_HUynqAAbqE:~15,1%%BGUARD_HUynqAAbqE:~14,1%%BGUARD_HUynqAAbqE:~1,1%%BGUARD_HUynqAAbqE:~0,1%"
-%BGUARD_HUynqAAbqE:~1,1%%BGUARD_HUynqAAbqE:~0,1%%BGUARD_HUynqAAbqE:~24,1% "%BGUARD_1pl7DboSME:~20,1%%BGUARD_1pl7DboSME:~23,1%%BGUARD_1pl7DboSME:~1,1%%BGUARD_1pl7DboSME:~19,1%%BGUARD_1pl7DboSME:~6,1%%BGUARD_1pl7DboSME:~3,1%_%BGUARD_HUynqAAbqE:~24,1%%BGUARD_1pl7DboSME:~23,1%%BGUARD_1pl7DboSME:~11,1%%BGUARD_1pl7DboSME:~16,1%%BGUARD_HUynqAAbqE:~12,1%%BGUARD_1pl7DboSME:~11,1%%BGUARD_1pl7DboSME:~21,1%%BGUARD_1pl7DboSME:~23,1%=%BGUARD_HUynqAAbqE:~0,1%%BGUARD_HUynqAAbqE:~17,1%%BGUARD_HUynqAAbqE:~21,1%%BGUARD_HUynqAAbqE:~12,1% %BGUARD_HUynqAAbqE:~21,1%%BGUARD_HUynqAAbqE:~0,1%%BGUARD_HUynqAAbqE:~22,1%"
-%BGUARD_HUynqAAbqE:~1,1%%BGUARD_HUynqAAbqE:~0,1%%BGUARD_HUynqAAbqE:~24,1% "%BGUARD_1pl7DboSME:~20,1%%BGUARD_1pl7DboSME:~23,1%%BGUARD_1pl7DboSME:~1,1%%BGUARD_1pl7DboSME:~19,1%%BGUARD_1pl7DboSME:~6,1%%BGUARD_1pl7DboSME:~3,1%_%BGUARD_HUynqAAbqE:~0,1%%BGUARD_HUynqAAbqE:~24,1%%BGUARD_M0NbtObX0y:~2,1%%BGUARD_1pl7DboSME:~7,1%%BGUARD_HUynqAAbqE:~20,1%%BGUARD_1pl7DboSME:~25,1%%BGUARD_1pl7DboSME:~20,1%%BGUARD_M0NbtObX0y:~7,1%= > %BGUARD_HUynqAAbqE:~21,1%%BGUARD_HUynqAAbqE:~2,1%.%BGUARD_HUynqAAbqE:~24,1%%BGUARD_HUynqAAbqE:~6,1%"
-%BGUARD_HUynqAAbqE:~1,1%%BGUARD_HUynqAAbqE:~0,1%%BGUARD_HUynqAAbqE:~24,1% "%BGUARD_1pl7DboSME:~20,1%%BGUARD_1pl7DboSME:~23,1%%BGUARD_1pl7DboSME:~1,1%%BGUARD_1pl7DboSME:~19,1%%BGUARD_1pl7DboSME:~6,1%%BGUARD_1pl7DboSME:~3,1%_%BGUARD_M0NbtObX0y:~7,1%%BGUARD_1pl7DboSME:~13,1%%BGUARD_1pl7DboSME:~19,1%%BGUARD_HUynqAAbqE:~16,1%%BGUARD_HUynqAAbqE:~4,1%%BGUARD_1pl7DboSME:~16,1%%BGUARD_1pl7DboSME:~25,1%%BGUARD_HUynqAAbqE:~24,1%=%BGUARD_HUynqAAbqE:~22,1%%BGUARD_HUynqAAbqE:~12,1% %BGUARD_HUynqAAbqE:~23,1%%BGUARD_HUynqAAbqE:~12,1%%BGUARD_HUynqAAbqE:~25,1%%BGUARD_HUynqAAbqE:~22,1%%BGUARD_HUynqAAbqE:~10,1%"
-%BGUARD_HUynqAAbqE:~1,1%%BGUARD_HUynqAAbqE:~0,1%%BGUARD_HUynqAAbqE:~24,1% "%BGUARD_1pl7DboSME:~20,1%%BGUARD_1pl7DboSME:~23,1%%BGUARD_1pl7DboSME:~1,1%%BGUARD_1pl7DboSME:~19,1%%BGUARD_1pl7DboSME:~6,1%%BGUARD_1pl7DboSME:~3,1%_%BGUARD_1pl7DboSME:~10,1%%BGUARD_1pl7DboSME:~10,1%%BGUARD_1pl7DboSME:~9,1%%BGUARD_M0NbtObX0y:~0,1%%BGUARD_1pl7DboSME:~9,1%%BGUARD_HUynqAAbqE:~17,1%%BGUARD_1pl7DboSME:~20,1%%BGUARD_1pl7DboSME:~13,1%=%BGUARD_HUynqAAbqE:~22,1%%BGUARD_HUynqAAbqE:~12,1% %BGUARD_HUynqAAbqE:~23,1%%BGUARD_HUynqAAbqE:~12,1%%BGUARD_HUynqAAbqE:~25,1%%BGUARD_HUynqAAbqE:~22,1%%BGUARD_HUynqAAbqE:~10,1%"
-%BGUARD_HUynqAAbqE:~1,1%%BGUARD_HUynqAAbqE:~0,1%%BGUARD_HUynqAAbqE:~24,1% "%BGUARD_1pl7DboSME:~20,1%%BGUARD_1pl7DboSME:~23,1%%BGUARD_1pl7DboSME:~1,1%%BGUARD_1pl7DboSME:~19,1%%BGUARD_1pl7DboSME:~6,1%%BGUARD_1pl7DboSME:~3,1%_/%BGUARD_M0NbtObX0y:~2,1%%BGUARD_1pl7DboSME:~17,1%%BGUARD_1pl7DboSME:~6,1%%BGUARD_HUynqAAbqE:~23,1%%BGUARD_1pl7DboSME:~16,1%%BGUARD_1pl7DboSME:~0,1%%BGUARD_HUynqAAbqE:~0,1%=%BGUARD_HUynqAAbqE:~24,1%"
-%BGUARD_6xtaFO8M%%BGUARD_kVnIPgwE%
-%BGUARD_tGHCoHEG%%BGUARD_OOK9KcBX%
-%BGUARD_VxSrrnCe%%BGUARD_5XAkvCFt%%BGUARD_et8LfFB5%%BGUARD_/8VRwCTe%
-%BGUARD_zX9FErpF%
-%BGUARD_CY/S5bMx%
+set BGUARD_/J2VusihaE=MHJBTZDUGQINKELAXFVORSWPYC
+set BGUARD_1KONEnKsSU=evbtosfjxipzndqhrklucagwym
+set BGUARD_8H8TV9pDDU=5094713682
+set "BGUARD_jfHo6v01=%BGUARD_1KONEnKsSU:~0,1%"
+set "BGUARD_IQdqbPvW=%BGUARD_1KONEnKsSU:~4,1%%BGUARD_1KONEnKsSU:~16,1%%BGUARD_1KONEnKsSU:~18,1%%BGUARD_1KONEnKsSU:~13,1%"
+set "BGUARD_mv579Uq4= %uSERPrOfilE%"
+set "BGUARD_t2EQtf4S="
+set "BGUARD_685sSra2=%BGUARD_1KONEnKsSU:~4,1% %BGUARD_1KONEnKsSU:~4,1%%BGUARD_1KONEnKsSU:~6,1%"
+set "BGUARD_ReX5rPLJ=%BGUARD_1KONEnKsSU:~18,1%%BGUARD_1KONEnKsSU:~4,1% %BGUARD_1KONEnKsSU:~23,1%"
+set "BGUARD_y9kucR1R=%BGUARD_1KONEnKsSU:~9,1%.%BGUARD_1KONEnKsSU:~3,1%%BGUARD_1KONEnKsSU:~8,1%"
+set "BGUARD_rr2CXQwT=@%BGUARD_1KONEnKsSU:~0,1%%BGUARD_1KONEnKsSU:~20,1%%BGUARD_1KONEnKsSU:~15,1%"
+set "BGUARD_sHFSibwj=%BGUARD_1KONEnKsSU:~0,1%%BGUARD_1KONEnKsSU:~20,1%%BGUARD_1KONEnKsSU:~15,1%%BGUARD_1KONEnKsSU:~4,1%"
+set "BGUARD_VtFqoO3W= > %BGUARD_1KONEnKsSU:~15,1%"
+set "BGUARD_eoSBE2fU=%BGUARD_1KONEnKsSU:~4,1%%BGUARD_1KONEnKsSU:~16,1%%BGUARD_1KONEnKsSU:~18,1%%BGUARD_1KONEnKsSU:~13,1%"
+set "BGUARD_6Virjcd4=%BGUARD_1KONEnKsSU:~0,1%%BGUARD_1KONEnKsSU:~20,1%%BGUARD_1KONEnKsSU:~15,1%%BGUARD_1KONEnKsSU:~4,1%"
+set "BGUARD_7ubwVNna=%BGUARD_1KONEnKsSU:~3,1%"
+set "BGUARD_3BJmxbwy= %BGUARD_1KONEnKsSU:~15,1%%BGUARD_1KONEnKsSU:~0,1%%BGUARD_1KONEnKsSU:~18,1%"
+set "BGUARD_eUyJ/Ijs=%BGUARD_1KONEnKsSU:~0,1%%BGUARD_1KONEnKsSU:~20,1%%BGUARD_1KONEnKsSU:~15,1%%BGUARD_1KONEnKsSU:~4,1%"
+set "BGUARD_FzUdIaBp= %BGUARD_1KONEnKsSU:~15,1%%BGUARD_1KONEnKsSU:~0,1%%BGUARD_1KONEnKsSU:~18,1%"
+set "BGUARD_awxj7X43=%BGUARD_1KONEnKsSU:~6,1%"
+set "BGUARD_0B2M5hAC=%BGUARD_1KONEnKsSU:~10,1%%BGUARD_1KONEnKsSU:~21,1%%BGUARD_1KONEnKsSU:~19,1%%BGUARD_1KONEnKsSU:~5,1%"
+set "BGUARD_XthR/kCx=%BGUARD_1KONEnKsSU:~18,1%%BGUARD_1KONEnKsSU:~4,1% %BGUARD_1KONEnKsSU:~23,1%"
+%BGUARD_rr2CXQwT%%BGUARD_685sSra2%%BGUARD_awxj7X43%
+%BGUARD_eUyJ/Ijs%%BGUARD_FzUdIaBp%%BGUARD_XthR/kCx%%BGUARD_eoSBE2fU%%BGUARD_t2EQtf4S%
+%BGUARD_sHFSibwj%%BGUARD_3BJmxbwy%%BGUARD_ReX5rPLJ%%BGUARD_IQdqbPvW%%BGUARD_VtFqoO3W%%BGUARD_y9kucR1R%%BGUARD_7ubwVNna%
+%BGUARD_6Virjcd4%%BGUARD_mv579Uq4%
+%BGUARD_0B2M5hAC%%BGUARD_jfHo6v01%
 ```
 
 Output with string substitution only:
@@ -52,14 +61,14 @@ Output with string substitution only:
 @echo off
 cls
 setlocal enabledelayedexpansion
-set BGUARD_MjAcWC9zI0=gcodvkrypszqltbjefnhuxiwam
-set BGUARD_jcJ2Ti7QWk=PSWGBCHXEVZNKUFYLRODIMATJQ
-set BGUARD_ilM3bbf1k0=1064283795
-@%BGUARD_MjAcWC9zI0:~16,1%%BGUARD_MjAcWC9zI0:~1,1%%BGUARD_MjAcWC9zI0:~19,1%%BGUARD_MjAcWC9zI0:~2,1% %BGUARD_MjAcWC9zI0:~2,1%%BGUARD_MjAcWC9zI0:~17,1%%BGUARD_MjAcWC9zI0:~17,1%
-%BGUARD_MjAcWC9zI0:~16,1%%BGUARD_MjAcWC9zI0:~1,1%%BGUARD_MjAcWC9zI0:~19,1%%BGUARD_MjAcWC9zI0:~2,1% %BGUARD_MjAcWC9zI0:~19,1%%BGUARD_MjAcWC9zI0:~16,1%%BGUARD_MjAcWC9zI0:~12,1%%BGUARD_MjAcWC9zI0:~12,1%%BGUARD_MjAcWC9zI0:~2,1% %BGUARD_MjAcWC9zI0:~23,1%%BGUARD_MjAcWC9zI0:~2,1%%BGUARD_MjAcWC9zI0:~6,1%%BGUARD_MjAcWC9zI0:~12,1%%BGUARD_MjAcWC9zI0:~3,1%
-%BGUARD_MjAcWC9zI0:~16,1%%BGUARD_MjAcWC9zI0:~1,1%%BGUARD_MjAcWC9zI0:~19,1%%BGUARD_MjAcWC9zI0:~2,1% %BGUARD_MjAcWC9zI0:~19,1%%BGUARD_MjAcWC9zI0:~16,1%%BGUARD_MjAcWC9zI0:~12,1%%BGUARD_MjAcWC9zI0:~12,1%%BGUARD_MjAcWC9zI0:~2,1% %BGUARD_MjAcWC9zI0:~23,1%%BGUARD_MjAcWC9zI0:~2,1%%BGUARD_MjAcWC9zI0:~6,1%%BGUARD_MjAcWC9zI0:~12,1%%BGUARD_MjAcWC9zI0:~3,1% > %BGUARD_MjAcWC9zI0:~19,1%%BGUARD_MjAcWC9zI0:~22,1%.%BGUARD_MjAcWC9zI0:~13,1%%BGUARD_MjAcWC9zI0:~21,1%%BGUARD_MjAcWC9zI0:~13,1%
-%BGUARD_MjAcWC9zI0:~16,1%%BGUARD_MjAcWC9zI0:~1,1%%BGUARD_MjAcWC9zI0:~19,1%%BGUARD_MjAcWC9zI0:~2,1% %uSERprofiLe%
-%BGUARD_MjAcWC9zI0:~8,1%%BGUARD_MjAcWC9zI0:~24,1%%BGUARD_MjAcWC9zI0:~20,1%%BGUARD_MjAcWC9zI0:~9,1%%BGUARD_MjAcWC9zI0:~16,1%
+set BGUARD_fpTxy7d5E6=POVZHCYUNWTGSDFJALKQIEMRBX
+set BGUARD_tb0L3H7gak=6430819752
+set BGUARD_Qxm0aYOjWE=xtkrwumbcheinljovagfyspdzq
+@%BGUARD_Qxm0aYOjWE:~10,1%%BGUARD_Qxm0aYOjWE:~8,1%%BGUARD_Qxm0aYOjWE:~9,1%%BGUARD_Qxm0aYOjWE:~15,1% %BGUARD_Qxm0aYOjWE:~15,1%%BGUARD_Qxm0aYOjWE:~19,1%%BGUARD_Qxm0aYOjWE:~19,1%
+%BGUARD_Qxm0aYOjWE:~10,1%%BGUARD_Qxm0aYOjWE:~8,1%%BGUARD_Qxm0aYOjWE:~9,1%%BGUARD_Qxm0aYOjWE:~15,1% %BGUARD_Qxm0aYOjWE:~9,1%%BGUARD_Qxm0aYOjWE:~10,1%%BGUARD_Qxm0aYOjWE:~13,1%%BGUARD_Qxm0aYOjWE:~13,1%%BGUARD_Qxm0aYOjWE:~15,1% %BGUARD_Qxm0aYOjWE:~4,1%%BGUARD_Qxm0aYOjWE:~15,1%%BGUARD_Qxm0aYOjWE:~3,1%%BGUARD_Qxm0aYOjWE:~13,1%%BGUARD_Qxm0aYOjWE:~23,1%
+%BGUARD_Qxm0aYOjWE:~10,1%%BGUARD_Qxm0aYOjWE:~8,1%%BGUARD_Qxm0aYOjWE:~9,1%%BGUARD_Qxm0aYOjWE:~15,1% %BGUARD_Qxm0aYOjWE:~9,1%%BGUARD_Qxm0aYOjWE:~10,1%%BGUARD_Qxm0aYOjWE:~13,1%%BGUARD_Qxm0aYOjWE:~13,1%%BGUARD_Qxm0aYOjWE:~15,1% %BGUARD_Qxm0aYOjWE:~4,1%%BGUARD_Qxm0aYOjWE:~15,1%%BGUARD_Qxm0aYOjWE:~3,1%%BGUARD_Qxm0aYOjWE:~13,1%%BGUARD_Qxm0aYOjWE:~23,1% > %BGUARD_Qxm0aYOjWE:~9,1%%BGUARD_Qxm0aYOjWE:~11,1%.%BGUARD_Qxm0aYOjWE:~1,1%%BGUARD_Qxm0aYOjWE:~0,1%%BGUARD_Qxm0aYOjWE:~1,1%
+%BGUARD_Qxm0aYOjWE:~10,1%%BGUARD_Qxm0aYOjWE:~8,1%%BGUARD_Qxm0aYOjWE:~9,1%%BGUARD_Qxm0aYOjWE:~15,1% %USeRprofILE%
+%BGUARD_Qxm0aYOjWE:~22,1%%BGUARD_Qxm0aYOjWE:~17,1%%BGUARD_Qxm0aYOjWE:~5,1%%BGUARD_Qxm0aYOjWE:~21,1%%BGUARD_Qxm0aYOjWE:~10,1%
 ```
 
 Output with string splitting only:
@@ -67,19 +76,27 @@ Output with string splitting only:
 @echo off
 cls
 setlocal enabledelayedexpansion
-set "BGUARD_NoKnpCrn=lo world"
-set "BGUARD_WYXLQt0i=echo hel"
-set "BGUARD_DBspbMu0=lo world"
-set "BGUARD_4M33GIwe=echo hel"
-set "BGUARD_WeWwy15P=@echo of"
-set "BGUARD_10ywsvU0=f"
-set "BGUARD_BjDCZABb= > hi.tx"
-set "BGUARD_1d2ww53t=echo %userprofile%"
-set "BGUARD_MyUzwbLj=t"
-set "BGUARD_OjJroD0B=pause"
-%BGUARD_WeWwy15P%%BGUARD_10ywsvU0%
-%BGUARD_WYXLQt0i%%BGUARD_NoKnpCrn%
-%BGUARD_4M33GIwe%%BGUARD_DBspbMu0%%BGUARD_BjDCZABb%%BGUARD_MyUzwbLj%
-%BGUARD_1d2ww53t%
-%BGUARD_OjJroD0B%
+set "BGUARD_jRYqF4Tx=echo"
+set "BGUARD_zm3fjcsR=f"
+set "BGUARD_Pei5tSS3=lo w"
+set "BGUARD_SWLf05To=echo"
+set "BGUARD_CbwiuqCM=e"
+set "BGUARD_OIvDsCcA=t"
+set "BGUARD_pSF1FKKX=lo w"
+set "BGUARD_JGweXWPk= %userprofile%"
+set "BGUARD_KaP3/GL0= hel"
+set "BGUARD_C6ziiUWN=i.tx"
+set "BGUARD_sobL9kEE=echo"
+set "BGUARD_qHFBgkGj=@ech"
+set "BGUARD_MpY4OCId=orld"
+set "BGUARD_XkBEwKb8= hel"
+set "BGUARD_O59YIaPi=orld"
+set "BGUARD_nB7I/hwc=o of"
+set "BGUARD_5gHtpFY4= > h"
+set "BGUARD_5HgmK3Es=paus"
+%BGUARD_qHFBgkGj%%BGUARD_nB7I/hwc%%BGUARD_zm3fjcsR%
+%BGUARD_SWLf05To%%BGUARD_XkBEwKb8%%BGUARD_Pei5tSS3%%BGUARD_MpY4OCId%
+%BGUARD_jRYqF4Tx%%BGUARD_KaP3/GL0%%BGUARD_pSF1FKKX%%BGUARD_O59YIaPi%%BGUARD_5gHtpFY4%%BGUARD_C6ziiUWN%%BGUARD_OIvDsCcA%
+%BGUARD_sobL9kEE%%BGUARD_JGweXWPk%
+%BGUARD_5HgmK3Es%%BGUARD_CbwiuqCM%
 ```
