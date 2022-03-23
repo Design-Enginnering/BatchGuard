@@ -81,14 +81,21 @@ namespace BatchGuard.Protections
                     name = new string(name.Where(char.IsLetter).ToArray());
                     name = name.Substring(0, 10);
 
-                    setlines.Add($"set \"{name}={s}\"{Environment.NewLine}");
+                    setlines.Add($"set \"{name}={s}\"");
                     vars.Add(name);
                 }
                 linevars.Add(vars.ToArray());
             }
             Debug.Log("Variables generated.", LogType.Info);
 
-            foreach (string sl in setlines.OrderBy(x => rng.Next()).ToArray()) ret += sl; // Write all variables in random order
+            foreach (string sl in setlines.OrderBy(x => rng.Next()).ToArray()) // Write all variables in random order
+            {
+                ret += sl;
+                int r = rng.Next(0, 2);
+                if (r == 0) ret += Environment.NewLine;
+                else ret += " && ";
+            }
+
             foreach (string[] line in linevars)
             {
                 foreach (string s in line) ret += $"%{s}%";
