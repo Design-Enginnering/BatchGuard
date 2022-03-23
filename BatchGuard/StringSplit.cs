@@ -27,6 +27,7 @@ namespace BatchGuard
                     foreach (char c in line)
                     {
                         if (c == '%') invar = !invar;
+                        if (c == ' ' && invar) invar = false;
                         if (invar)
                         {
                             sc += c;
@@ -38,6 +39,7 @@ namespace BatchGuard
                             if (i >= amount * 2)
                             {
                                 splitted.Add(sc);
+                                invar = false;
                                 sc = string.Empty;
                                 i = 0;
                             }
@@ -55,11 +57,18 @@ namespace BatchGuard
                             sc += c;
                             continue;
                         }
+                        if (c == ' ' && invar)
+                        {
+                            invar = false;
+                            sc += c;
+                            continue;
+                        }
                         if (!invar)
                         {
                             if (sc.Length >= amount * 2)
                             {
                                 splitted.Add(sc);
+                                invar = false;
                                 sc = string.Empty;
                             }
                         }
@@ -71,7 +80,7 @@ namespace BatchGuard
                 List<string> vars = new List<string>();
                 foreach (string s in splitted)
                 {
-                    string name = $"BGUARD_{ Convert.ToBase64String(Guid.NewGuid().ToByteArray()).Replace("=", "").Replace("+", "").Substring(0, 8)}";
+                    string name = $"{Convert.ToBase64String(Guid.NewGuid().ToByteArray()).Replace("=", "").Replace("+", "").Substring(0, 10)}";
                     setlines.Add($"set \"{name}={s}\"{Environment.NewLine}");
                     vars.Add(name);
                 }

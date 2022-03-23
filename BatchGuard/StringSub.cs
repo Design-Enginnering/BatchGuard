@@ -22,9 +22,9 @@ namespace BatchGuard
 
         public static string GenVars(Random rng)
         {
-            lsetname = $"BGUARD_{Convert.ToBase64String(Guid.NewGuid().ToByteArray()).Replace("=", "").Replace("+", "").Substring(0, 10)}";
-            ulsetname = $"BGUARD_{Convert.ToBase64String(Guid.NewGuid().ToByteArray()).Replace("=", "").Replace("+", "").Substring(0, 10)}";
-            numsetname = $"BGUARD_{Convert.ToBase64String(Guid.NewGuid().ToByteArray()).Replace("=", "").Replace("+", "").Substring(0, 10)}";
+            lsetname = $"{Convert.ToBase64String(Guid.NewGuid().ToByteArray()).Replace("=", "").Replace("+", "").Substring(0, 10)}";
+            ulsetname = $"{Convert.ToBase64String(Guid.NewGuid().ToByteArray()).Replace("=", "").Replace("+", "").Substring(0, 10)}";
+            numsetname = $"{Convert.ToBase64String(Guid.NewGuid().ToByteArray()).Replace("=", "").Replace("+", "").Substring(0, 10)}";
 
             letterset = new string(letchars.ToCharArray().OrderBy(x => Guid.NewGuid()).ToArray());
             upletterset = new string(letupchars.ToCharArray().OrderBy(x => Guid.NewGuid()).ToArray());
@@ -58,6 +58,8 @@ namespace BatchGuard
             foreach (char c in input)
             {
                 if (c == '%') invar = !invar;
+                if (invar && c == ' ') invar = false;
+                if (c == '\n' || c == '\r') invar = false;
                 if (invar)
                 {
                     if (char.IsLetter(c))
