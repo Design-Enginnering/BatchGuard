@@ -4,7 +4,7 @@ Batch file obfuscation tool made in C#. Features include: string substitution, s
 Currently incomplete and many optimisations need to be made.
 
 ## User interface
-![image](https://media.discordapp.net/attachments/955850893113298957/955850910242840576/unknown.png)
+![image](https://media.discordapp.net/attachments/955850893113298957/956116234016014366/unknown.png)
 
 ## Obfuscation results
 
