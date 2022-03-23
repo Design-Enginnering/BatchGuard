@@ -86,10 +86,9 @@ namespace BatchGuard
                 }
                 linevars.Add(vars.ToArray());
             }
+            Debug.Log("Variables generated.", LogType.Info);
 
             foreach (string sl in setlines.OrderBy(x => rng.Next()).ToArray()) ret += sl; // Write all variables in random order
-
-            // Call all variables in correct order
             foreach (string[] line in linevars)
             {
                 foreach (string s in line) ret += $"%{s}%";

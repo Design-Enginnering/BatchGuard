@@ -8,10 +8,11 @@ namespace BatchGuard
 {
     public partial class Form1 : Form
     {
-
         public Form1()
         {
+            Debug.Log("Form opened.", LogType.Success);
             InitializeComponent();
+            Debug.Log("Components initialised.", LogType.Info);
             listBox1.BackColor = Color.FromArgb(38, 38, 66);
             listBox1.ForeColor = Color.WhiteSmoke;
         }
@@ -52,6 +53,7 @@ namespace BatchGuard
         private void button3_Click(object sender, EventArgs e)
         {
             button3.Enabled = false;
+            Debug.Log("Obfuscating batch script...", LogType.Normal);
 
             byte[] finaloutput;
             Random rng = new Random();
@@ -68,30 +70,45 @@ namespace BatchGuard
                 {
                     string encoded = Convert.ToBase64String(File.ReadAllBytes(item));
                     gencode.AppendLine($"powershell -Command \"[System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String('{encoded}'))\" > \"%~dp0\\{Path.GetFileName(item)}\"");
+                    Debug.Log($"Embedded {item}", LogType.Success);
                 }
             }
 
             string batchcode = textBox2.Text;
             if (checkBox4.Checked) // Strip comments
             {
+                Debug.Log("Stripping comments...", LogType.Normal);
+                int commentsremoved = 0;
                 StringBuilder nocomments = new StringBuilder();
-                foreach (string line in batchcode.Split(new string[] { Environment.NewLine }, StringSplitOptions.None))
+                string[] lines = batchcode.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
+                for (int i = 0; i < lines.Length; i++)
                 {
-                    if (!line.ToLower().StartsWith("rem"))
+                    if (lines[i].ToLower().StartsWith("rem"))
                     {
-                        nocomments.AppendLine(line);
+                        Debug.Log($"Comment found on line {i + 1}.", LogType.Warning);
+                        commentsremoved++;
+                        continue;
                     }
+                    nocomments.AppendLine(lines[i]);
                 }
                 batchcode = nocomments.ToString();
+                Debug.Log($"Removed {commentsremoved} comment(s).", LogType.Success);
             }
             if (checkBox1.Checked) // String substitution
             {
+                Debug.Log("Substituting strings...", LogType.Normal);
                 gencode.Append(StringSub.GenVars(rng));
+                Debug.Log("Generated variables.", LogType.Info);
                 batchcode = StringSub.GenCode(batchcode, rng);
+                Debug.Log("Generated code.", LogType.Info);
+                Debug.Log("String substitution complete.", LogType.Success);
             }
             if (checkBox2.Checked) // Splitting strings
             {
+                Debug.Log("Splitting strings...", LogType.Normal);
                 batchcode = StringSplit.GenCode(batchcode, rng, checkBox1.Checked, 3);
+                Debug.Log("Generated code with complexity level 3.", LogType.Info);
+                Debug.Log("String splitting complete.", LogType.Success);
             }
             gencode.AppendLine(batchcode);
 
@@ -101,16 +118,20 @@ namespace BatchGuard
                 foreach (string item in listBox1.Items)
                 {
                     gencode.AppendLine($"del \"%~dp0\\{Path.GetFileName(item)}\"");
+                    Debug.Log($"Added cleanup code for embedded item: {item}", LogType.Success);
                 }
             }
 
             if (checkBox3.Checked) // UTF-16 BOM
             {
+                Debug.Log("Adding UTF-16 byte-order-mark...", LogType.Normal);
                 byte[] uniheader = new byte[] { 0xFF, 0xFE, 0x0D, 0x0A };
                 byte[] gencodebytes = Encoding.ASCII.GetBytes(gencode.ToString());
                 finaloutput = new byte[uniheader.Length + gencodebytes.Length + 1];
                 uniheader.CopyTo(finaloutput, 0);
+                Debug.Log("Unicode header copied.", LogType.Info);
                 gencodebytes.CopyTo(finaloutput, uniheader.Length);
+                Debug.Log("Successfully added UTF-16 byte-order-mark.", LogType.Success);
             }
             else
             {
@@ -118,7 +139,9 @@ namespace BatchGuard
             }
 
             string outputpath = $"{Path.GetDirectoryName(textBox1.Text)}\\{Path.GetFileNameWithoutExtension(textBox1.Text)}_obf.bat";
+            Debug.Log($"Saving output to: {outputpath}", LogType.Normal);
             File.WriteAllBytes(outputpath, finaloutput);
+            Debug.Log("Output saved.", LogType.Success);
 
             textBox1.Text = outputpath;
             button3.Enabled = true;
