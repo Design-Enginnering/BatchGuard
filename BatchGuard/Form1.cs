@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Data;
 using System.Drawing;
-using System.Linq;
 using System.Text;
 using System.IO;
 using System.Windows.Forms;
@@ -11,9 +8,6 @@ namespace BatchGuard
 {
     public partial class Form1 : Form
     {
-        private string letchars = "abcdefghijklmnopqrstuvwxyz";
-        private string letupchars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-        private string numchars = "0123456789";
 
         public Form1()
         {
@@ -78,118 +72,15 @@ namespace BatchGuard
             }
 
             string batchcode = textBox2.Text;
-            List<string[]> linevars = new List<string[]>();
-            if (checkBox2.Checked) // Splitting strings
-            {
-                string[] lines = batchcode.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
-                batchcode = string.Empty;
-
-                List<string> setlines = new List<string>();
-                foreach (string line in lines)
-                {
-                    // Split each line every 8 characters
-                    List<string> splitted = new List<string>();
-                    string sc = string.Empty;
-                    bool invar = false;
-                    foreach (char c in line)
-                    {
-                        if (c == '%')
-                        {
-                            invar = !invar;
-                            sc += c;
-                            continue;
-                        }
-                        if (!invar)
-                        {
-                            if (sc.Length >= 8)
-                            {
-                                splitted.Add(sc);
-                                sc = string.Empty;
-                            }
-                        }
-                        sc += c;
-                    }
-                    splitted.Add(sc);
-
-                    List<string> vars = new List<string>();
-                    foreach (string s in splitted)
-                    {
-                        string name = $"BGUARD_{ Convert.ToBase64String(Guid.NewGuid().ToByteArray()).Replace("=", "").Replace("+", "").Substring(0, 8)}";
-                        setlines.Add($"set \"{name}={s}\"{Environment.NewLine}");
-                        vars.Add(name);
-                    }
-                    linevars.Add(vars.ToArray());
-                }
-                foreach (string sl in setlines.OrderBy(x => rng.Next()).ToArray()) batchcode += sl; // Write all variables in random order
-            }
-
             if (checkBox1.Checked) // String substitution
             {
-                string bcopy = batchcode;
-                batchcode = string.Empty;
-                string lsetname = $"BGUARD_{Convert.ToBase64String(Guid.NewGuid().ToByteArray()).Replace("=", "").Replace("+", "").Substring(0, 10)}";
-                string ulsetname = $"BGUARD_{Convert.ToBase64String(Guid.NewGuid().ToByteArray()).Replace("=", "").Replace("+", "").Substring(0, 10)}";
-                string numsetname = $"BGUARD_{Convert.ToBase64String(Guid.NewGuid().ToByteArray()).Replace("=", "").Replace("+", "").Substring(0, 10)}";
-
-                string letterset = new string(letchars.ToCharArray().OrderBy(x => Guid.NewGuid()).ToArray());
-                string upletterset = new string(letupchars.ToCharArray().OrderBy(x => Guid.NewGuid()).ToArray());
-                string numberset = new string(numchars.ToCharArray().OrderBy(x => Guid.NewGuid()).ToArray());
-
-                int[] setorder = new int[] { 1, 2, 3 }.OrderBy(x => rng.Next()).ToArray();
-                foreach (int s in setorder)
-                {
-                    switch (s)
-                    {
-                        case 1:
-                            gencode.AppendLine($"set {lsetname}={letterset}");
-                            break;
-                        case 2:
-                            gencode.AppendLine($"set {ulsetname}={upletterset}");
-                            break;
-                        case 3:
-                            gencode.AppendLine($"set {numsetname}={numberset}");
-                            break;
-                    }
-                }
-
-                bool invar = false;
-                foreach (char c in bcopy)
-                {
-                    if (c == '%') invar = !invar;
-                    if (invar)
-                    {
-                        if (char.IsLetter(c))
-                        {
-                            int r = rng.Next(0, 2);
-                            if (r == 0) batchcode += char.ToUpper(c);
-                            else batchcode += char.ToLower(c);
-                        }
-                        else batchcode += c;
-                        continue;
-                    }
-                    if (char.IsLetter(c))
-                    {
-                        if (char.IsUpper(c)) batchcode += $"%{ulsetname}:~{upletterset.IndexOf(c)},1%";
-                        else batchcode += $"%{lsetname}:~{letterset.IndexOf(c)},1%";
-                    }
-                    else if (char.IsDigit(c)) batchcode += $"%{numsetname}:~{numberset.IndexOf(c)},1%";
-                    else batchcode += c;
-                }
+                gencode.Append(StringSub.GenVars(rng));
+                batchcode = StringSub.GenCode(batchcode, rng);
             }
-
             if (checkBox2.Checked) // Splitting strings
             {
-                // Call all variables in correct order
-                foreach (string[] line in linevars)
-                {
-                    foreach (string s in line)
-                    {
-                        batchcode += $"%{s}%";
-                    }
-                    batchcode += Environment.NewLine;
-                }
+                batchcode = StringSplit.GenCode(batchcode, rng, checkBox1.Checked, 3);
             }
-
             gencode.AppendLine(batchcode);
 
             if (listBox1.Items.Count > 0)
@@ -214,13 +105,10 @@ namespace BatchGuard
                 finaloutput = Encoding.ASCII.GetBytes(gencode.ToString());
             }
 
-            SaveFileDialog sfd = new SaveFileDialog();
-            if (sfd.ShowDialog() == DialogResult.OK)
-            {
-                File.WriteAllBytes(sfd.FileName, finaloutput);
-            }
+            string outputpath = $"{Path.GetDirectoryName(textBox1.Text)}\\{Path.GetFileNameWithoutExtension(textBox1.Text)}_obf.bat";
+            File.WriteAllBytes(outputpath, finaloutput);
 
-            textBox1.Text = sfd.FileName;
+            textBox1.Text = outputpath;
             button3.Enabled = true;
         }
     }
