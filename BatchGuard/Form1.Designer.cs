@@ -70,11 +70,11 @@
             // 
             this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(56)))), ((int)(((byte)(56)))), ((int)(((byte)(92)))));
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Font = new System.Drawing.Font("Microsoft Tai Le", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.button1.Location = new System.Drawing.Point(455, 17);
+            this.button1.Location = new System.Drawing.Point(455, 12);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(71, 19);
+            this.button1.Size = new System.Drawing.Size(71, 28);
             this.button1.TabIndex = 2;
             this.button1.Text = "Select file";
             this.button1.UseVisualStyleBackColor = false;
