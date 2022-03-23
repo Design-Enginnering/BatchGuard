@@ -72,6 +72,18 @@ namespace BatchGuard
             }
 
             string batchcode = textBox2.Text;
+            if (checkBox4.Checked) // Strip comments
+            {
+                StringBuilder nocomments = new StringBuilder();
+                foreach (string line in batchcode.Split(new string[] { Environment.NewLine }, StringSplitOptions.None))
+                {
+                    if (!line.ToLower().StartsWith("rem"))
+                    {
+                        nocomments.AppendLine(line);
+                    }
+                }
+                batchcode = nocomments.ToString();
+            }
             if (checkBox1.Checked) // String substitution
             {
                 gencode.Append(StringSub.GenVars(rng));
