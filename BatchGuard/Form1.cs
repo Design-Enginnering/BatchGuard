@@ -3,12 +3,15 @@ using System.Drawing;
 using System.Text;
 using System.IO;
 using System.Windows.Forms;
+using System.Diagnostics;
+
 using BatchGuard.Protections;
 
 namespace BatchGuard
 {
     public partial class Form1 : Form
     {
+        private string openedfilepath = string.Empty;
         public Form1()
         {
             Debug.Log("Form opened.", LogType.Success);
@@ -18,27 +21,13 @@ namespace BatchGuard
             listBox1.ForeColor = Color.WhiteSmoke;
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-            string content;
-            try
-            {
-                content = File.ReadAllText(textBox1.Text);
-            }
-            catch
-            {
-                content = "Invalid file.";
-            }
-
-            textBox2.Text = content;
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             OpenFileDialog ofd = new OpenFileDialog();
             if (ofd.ShowDialog() == DialogResult.OK)
             {
-                textBox1.Text = ofd.FileName;
+                openedfilepath = ofd.FileName;
+                textBox1.Text = File.ReadAllText(ofd.FileName);
             }
         }
 
@@ -53,12 +42,6 @@ namespace BatchGuard
 
         private void button3_Click(object sender, EventArgs e)
         {
-            if (textBox1.Text == string.Empty || textBox2.Text == string.Empty || textBox2.Text == "Invalid file.")
-            {
-                MessageBox.Show("error");
-                return;
-            }
-
             button3.Enabled = false;
             Debug.Log("Obfuscating batch script...", LogType.Normal);
 
@@ -81,7 +64,7 @@ namespace BatchGuard
                 }
             }
 
-            string batchcode = textBox2.Text;
+            string batchcode = textBox1.Text;
             if (checkBox4.Checked) // Strip comments
             {
                 Debug.Log("Stripping comments...", LogType.Normal);
@@ -132,12 +115,11 @@ namespace BatchGuard
             if (checkBox3.Checked) finaloutput = UTF16BOM.Process(gencode.ToString());
             else finaloutput = Encoding.ASCII.GetBytes(gencode.ToString());
 
-            string outputpath = $"{Path.GetDirectoryName(textBox1.Text)}\\{Path.GetFileNameWithoutExtension(textBox1.Text)}_obf.bat";
-            Debug.Log($"Saving output to: {outputpath}", LogType.Normal);
-            File.WriteAllBytes(outputpath, finaloutput);
+            string outpath = $"{Path.GetDirectoryName(openedfilepath)}\\{Path.GetFileNameWithoutExtension(openedfilepath)}_obf.bat";
+            File.WriteAllBytes(outpath, finaloutput);
             Debug.Log("Output saved.", LogType.Success);
 
-            textBox1.Text = outputpath;
+            Process.Start("notepad.exe", outpath);
             button3.Enabled = true;
         }
     }

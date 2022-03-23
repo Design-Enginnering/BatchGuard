@@ -10,7 +10,7 @@ namespace BatchGuard
         private static extern bool SetProcessDPIAware();
 
         [STAThread]
-        static void Main() 
+        static void Main()
         {
             Console.Title = "BatchGuard Debug Console";
             if (Environment.OSVersion.Version.Major >= 6) SetProcessDPIAware();
