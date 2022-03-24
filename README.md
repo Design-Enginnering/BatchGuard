@@ -19,7 +19,7 @@ pause
 
 Output:
 ```bat
-਍敀档⁯景൦挊獬਍敳汴捯污攠慮汢摥汥祡摥硥慰獮潩൮猊瑥嘠桍噈瑋䉙㵷睳晥畮捸慬歯灹穱癲浴桪摢楧਍敳⁴桊奐啉呖单䨽婇䡁䍉䭑坆佂協塎䕌䵐噕䑙൒猊瑥搠䍈硭䉬偖㵁㐸㈶㌰ㄹ㔷਍敳⁴眢剹桡卡故㵎┠䵖䡨䭖奴睂縺ㄲㄬ┥䵖䡨䭖奴睂縺ⰲ┱嘥桍噈瑋䉙㩷㡾ㄬ∥਍敳⁴儢潷偰晰祩㵢嘥桍噈瑋䉙㩷ㅾⰰ┱嘥桍噈瑋䉙㩷ㅾⰶ┱嘥桍噈瑋䉙㩷㡾ㄬ┥䵖䡨䭖奴睂縺㌲ㄬ∥਍敳⁴砢䝸䑉乹畫㵥嘥桍噈瑋䉙㩷ㅾⰰ┱┠䵖䡨䭖奴睂縺〱ㄬ┥䵖䡨䭖奴睂縺ⰳ┱ഢ猊瑥∠潣䱵婄畫捹‽甥敓偒佒䥆敌∥਍敳⁴栢䍣瑂啲楃㵡嘥桍噈瑋䉙㩷ㅾⰰ┱嘥桍噈瑋䉙㩷ㅾⰶ┱嘥桍噈瑋䉙㩷㡾ㄬ┥䵖䡨䭖奴睂縺㌲ㄬ∥਍敳⁴栢敮体牋䭦㵅嘥桍噈瑋䉙㩷㉾ㄬ∥਍敳⁴丢卑慔李千㵸㸠┠䵖䡨䭖奴睂縺ㄲㄬ∥਍敳⁴倢奊偏啩䱋㵁嘥桍噈瑋䉙㩷ㅾⰳ┱嘥桍噈瑋䉙㩷㥾ㄬ┥䵖䡨䭖奴睂縺ⰵ┱嘥桍噈瑋䉙㩷まㄬ∥਍敳⁴倢瑯扄歌䑑㵡嘥桍噈瑋䉙㩷㡾ㄬ┥䵖䡨䭖奴睂縺〱ㄬ‥嘥桍噈瑋䉙㩷ㅾㄬ∥਍敳⁴昢䡺灵䵒䥆㵍ഢ猊瑥∠䡸䑙歭敫火┽䵖䡨䭖奴睂縺ⰲ┱嘥桍噈瑋䉙㩷㝾ㄬ┥䵖䡨䭖奴睂縺ㄲㄬ┥䵖䡨䭖奴睂縺〱ㄬ∥਍敳⁴吢塭䙕橭䥏㵇嘥桍噈瑋䉙㩷㉾ㄬ┥䵖䡨䭖奴睂縺ⰷ┱嘥桍噈瑋䉙㩷㉾ⰱ┱嘥桍噈瑋䉙㩷ㅾⰰ┱ഢ猊瑥∠奥剖䭴䭫慔┽䵖䡨䭖奴睂縺㔲ㄬ⸥嘥桍噈瑋䉙㩷ㅾⰸ┱嘥桍噈瑋䉙㩷㙾ㄬ∥਍敳⁴刢空塊坈噲㵲ഢ猊瑥∠汐䍣济歴䵷┽䵖䡨䭖奴睂縺㠱ㄬ∥਍敳⁴䴢䩁坩佄潵㵁┠䵖䡨䭖奴睂縺ㄲㄬ┥䵖䡨䭖奴睂縺ⰲ┱嘥桍噈瑋䉙㩷㡾ㄬ∥਍敳⁴爢捯商灢畦㵣╀䵖䡨䭖奴睂縺ⰲ┱嘥桍噈瑋䉙㩷㝾ㄬ┥䵖䡨䭖奴睂縺ㄲㄬ∥਍敳⁴挢祬䩵潕啮㵏嘥桍噈瑋䉙㩷㉾ㄬ┥䵖䡨䭖奴睂縺ⰷ┱嘥桍噈瑋䉙㩷㉾ⰱ┱嘥桍噈瑋䉙㩷ㅾⰰ┱ഢ猊瑥∠桃兇䅊潯䕹┽䵖䡨䭖奴睂縺ⰳ┱ഢ猊瑥∠煤祯海坩䕗┽䵖䡨䭖奴睂縺ⰸ┱嘥桍噈瑋䉙㩷ㅾⰰ┱┠䵖䡨䭖奴睂縺ⰱ┱ഢ┊潲䙣払晰捵┥硸䥇祄歎敵┥桃兇䅊潯䕹ഥ┊䡸䑙歭敫火┥祷慒慨䕓乥┥煤祯海坩䕗┥捨䉃牴䍕慩┥穒䩺䡘牗牖ഥ┊浔啘浆佪䝉┥䅍楊䑗畏䅯┥潐䑴䱢八慄┥睑灯灐楦批┥兎呓乡䍧硓┥奥剖䭴䭫慔┥汐䍣济歴䵷ഥ┊汣畹啊湯何┥潣䱵婄畫捹ഥ┊䩐余楐䭕䅌┥湨卥䭏晲䕋ഥ┊穦畈剰䙍䵉ഥഊ
+਍敀档⁯景൦挊獬਍敳汴捯污攠慮汢摥汥祡摥硥慰獮潩൮猊瑥唠穕塗楌癒㵓䩂乇䅆婈䵗䭏塃卖偙啔䑅兌䥒਍敳⁴䙗睹䝫獷䭶礽穮癡灪浫桷牵煣獦杩硢整摯൬猊瑥删瑘婢汲癡㵦㤰㈶㌸ㄵ㐷਍敳⁴戢桪䕧摇䵧㵉圥祆歷睇癳㩋㉾ⰳ┱圥祆歷睇癳㩋ㅾⰲ┱圥祆歷睇癳㩋㉾ⰵ┱圥祆歷睇癳㩋㉾ⰴ┱•☦猠瑥∠捱呓穢硣祕┽䙗睹䝫獷䭶縺㔲ㄬ┥䙗睹䝫獷䭶縺㌲ㄬ‥圥祆歷睇癳㩋㥾ㄬ∥਍敳⁴漢楈晵晔啇㵖圥祆歷睇癳㩋㉾ⰲ┱•☦猠瑥∠楉啊婈故䥭┽䙗睹䝫獷䭶縺㌲ㄬ‥圥祆歷睇癳㩋㉾ⰳ┱圥祆歷睇癳㩋ㅾⰵ┱•☦猠瑥∠婚䅄硯佮浅‽‾圥祆歷睇癳㩋ㅾⰰ┱•☦猠瑥∠杸杣䉹睕兴┽䙗睹䝫獷䭶縺㌲ㄬ┥䙗睹䝫獷䭶縺㈱ㄬ┥䙗睹䝫獷䭶縺㔲ㄬ┥䙗睹䝫獷䭶縺㐲ㄬ∥਍敳⁴䐢癴䡌杮敖㵴┠䙗睹䝫獷䭶縺〱ㄬ┥䙗睹䝫獷䭶縺㈲ㄬ┥䙗睹䝫獷䭶縺㔲ㄬ∥☠…敳⁴刢楮剉换歘㵥圥祆歷睇癳㩋㉾ⰲ┱圥祆歷睇癳㩋ㅾⰳ┱圥祆歷睇癳㩋ㅾⰰ┱圥祆歷睇癳㩋㉾ⰳ┱•☦猠瑥∠杓摌瑨坫䕍┽䙗睹䝫獷䭶縺ㄲㄬ∥਍敳⁴䘢坤杈湗煤㵫圥祆歷睇癳㩋㙾ㄬ┥䙗睹䝫獷䭶縺ⰳ┱圥祆歷睇癳㩋ㅾⰱ┱圥祆歷睇癳㩋ㅾⰶ┱•☦猠瑥∠乺南晩祅污┽䙗睹䝫獷䭶縺㈲ㄬ┥䙗睹䝫獷䭶縺㌱ㄬ┥䙗睹䝫獷䭶縺〱ㄬ┥䙗睹䝫獷䭶縺㌲ㄬ∥☠…敳⁴瀢䭥呴穄䕯㵓圥祆歷睇癳㩋㉾ⰲ┱圥祆歷睇癳㩋ㅾⰳ┱圥祆歷睇癳㩋ㅾⰰ┱圥祆歷睇癳㩋㉾ⰳ┱•☦猠瑥∠慷楱敺歱煩∽਍敳⁴礢敵捖敫慙㵱┠䙗睹䝫獷䭶縺〱ㄬ┥䙗睹䝫獷䭶縺㈲ㄬ┥䙗睹䝫獷䭶縺㔲ㄬ∥਍敳⁴䰢䉣䍧楹牦㵫┠獕剥牰䙯䱉╥ഢ猊瑥∠卢奖橷歪奭┽䙗睹䝫獷䭶縺㜱ㄬ⸥圥祆歷睇癳㩋㉾ⰱ┱圥祆歷睇癳㩋㉾ⰰ┱ഢ猊瑥∠䵐煊異元䉭䀽圥祆歷睇癳㩋㉾ⰲ┱圥祆歷睇癳㩋ㅾⰳ┱圥祆歷睇癳㩋ㅾⰰ┱•☦猠瑥∠偢煁硘桱坲∽☠…敳⁴䜢䝍䑃䕨歙㵭圥祆歷睇癳㩋ㅾⰵ┱•☦猠瑥∠晦剔牐敄䉥┽䙗睹䝫獷䭶縺㔲ㄬ┥䙗睹䝫獷䭶縺㌲ㄬ‥圥祆歷睇癳㩋㥾ㄬ∥਍倥䩍灱䍵浑╂䤥䩩䡕䕚浥╉䜥䝍䑃䕨歙╭਍瀥䭥呴穄䕯╓礥敵捖敫慙╱春呦偒䑲敥╂戥桪䕧摇䵧╉戥䅐塱煸牨╗਍稥坎楓䕦慹╬䐥癴䡌杮敖╴焥卣扔捺啸╹砥捧祧啂瑷║娥䑚潁湸䕏╭戥噓睙橪浫╙匥䱧桤歴䵗╅਍別楮剉换歘╥䰥䉣䍧楹牦╫਍䘥坤杈湗煤╫漥楈晵晔啇╖਍眥煡穩煥楫╱਍਍
 ```
 
 Output without UTF-16 BOM:
@@ -27,35 +27,24 @@ Output without UTF-16 BOM:
 @echo off
 cls
 setlocal enabledelayedexpansion
-set xtxTiSkMUy=5478296310
-set imEAnQEHps=POCFZGNXJWBVMDAYEULIHSQKRT
-set EnsuXAxEWd=vdlgswbfuahzetcjyoimqkxpnr
-set "vGlKHyskpa=%EnsuXAxEWd:~12,1%"
-set "XYYvotcKUG=%EnsuXAxEWd:~17,1% %EnsuXAxEWd:~17,1%%EnsuXAxEWd:~7,1%"
-set "zItLiakOUa="
-set "oVWKijodrU= > %EnsuXAxEWd:~10,1%"
-set "VDQuRJUuHj=%EnsuXAxEWd:~23,1%%EnsuXAxEWd:~9,1%%EnsuXAxEWd:~8,1%%EnsuXAxEWd:~4,1%"
-set "mSIsAqYmkq=%EnsuXAxEWd:~17,1%%EnsuXAxEWd:~25,1%%EnsuXAxEWd:~2,1%%EnsuXAxEWd:~1,1%"
-set "jhGLdGfkWd="
-set "kmcHiccESC=%EnsuXAxEWd:~12,1%%EnsuXAxEWd:~14,1%%EnsuXAxEWd:~10,1%%EnsuXAxEWd:~17,1%"
-set "ZPadONvoBB=%EnsuXAxEWd:~2,1%%EnsuXAxEWd:~17,1% %EnsuXAxEWd:~5,1%"
-set "UBsqFvPSzC=@%EnsuXAxEWd:~12,1%%EnsuXAxEWd:~14,1%%EnsuXAxEWd:~10,1%"
-set "JDXyepaGUh=%EnsuXAxEWd:~12,1%%EnsuXAxEWd:~14,1%%EnsuXAxEWd:~10,1%%EnsuXAxEWd:~17,1%"
-set "CYApXQrUec= %UserProfILe%"
-set "dIHOeydkyW= %EnsuXAxEWd:~10,1%%EnsuXAxEWd:~12,1%%EnsuXAxEWd:~2,1%"
-set "QqjIBAouZx=%EnsuXAxEWd:~7,1%"
-set "xDGQnYUSMa=%EnsuXAxEWd:~18,1%.%EnsuXAxEWd:~13,1%%EnsuXAxEWd:~22,1%"
-set "xgVKWQEEGL=%EnsuXAxEWd:~2,1%%EnsuXAxEWd:~17,1% %EnsuXAxEWd:~5,1%"
-set "ICPAqcPEMw= %EnsuXAxEWd:~10,1%%EnsuXAxEWd:~12,1%%EnsuXAxEWd:~2,1%"
-set "QgvfMFrUOy=%EnsuXAxEWd:~13,1%"
-set "ggPKgVYWUW=%EnsuXAxEWd:~17,1%%EnsuXAxEWd:~25,1%%EnsuXAxEWd:~2,1%%EnsuXAxEWd:~1,1%"
-set "hLSTUNoBUu=%EnsuXAxEWd:~12,1%%EnsuXAxEWd:~14,1%%EnsuXAxEWd:~10,1%%EnsuXAxEWd:~17,1%"
-%UBsqFvPSzC%%XYYvotcKUG%%QqjIBAouZx%
-%JDXyepaGUh%%dIHOeydkyW%%ZPadONvoBB%%mSIsAqYmkq%%zItLiakOUa%
-%hLSTUNoBUu%%ICPAqcPEMw%%xgVKWQEEGL%%ggPKgVYWUW%%oVWKijodrU%%xDGQnYUSMa%%QgvfMFrUOy%
-%kmcHiccESC%%CYApXQrUec%
-%VDQuRJUuHj%%vGlKHyskpa%
-%jhGLdGfkWd%
+set XirkufKEKZ=FGTUBXKHPRWOEDSCAJVLYNQZIM
+set jfIdJnfvIy=zxmaewldhqsuripogbvkytcjfn
+set lFUBwuWile=6594180273
+set "ivPxswVUCf=%jfIdJnfvIy:~4,1%%jfIdJnfvIy:~22,1%%jfIdJnfvIy:~8,1%%jfIdJnfvIy:~15,1%"
+set "tZdHzAskaJ=%jfIdJnfvIy:~6,1%%jfIdJnfvIy:~15,1% %jfIdJnfvIy:~5,1%" && set "beIhUnzHSE=%jfIdJnfvIy:~4,1%%jfIdJnfvIy:~22,1%%jfIdJnfvIy:~8,1%%jfIdJnfvIy:~15,1%" && set "GAVwekmhgh=%jfIdJnfvIy:~24,1%"
+set "nFWUsEHkit=" && set "DcMObNBXeq=%jfIdJnfvIy:~15,1%%jfIdJnfvIy:~12,1%%jfIdJnfvIy:~6,1%%jfIdJnfvIy:~7,1%" && set "nTDZnEnpIN=%jfIdJnfvIy:~21,1%" && set "zmFuJOtkQE=%jfIdJnfvIy:~15,1%%jfIdJnfvIy:~12,1%%jfIdJnfvIy:~6,1%%jfIdJnfvIy:~7,1%" && set "xWdwQHhUmz= %UserPROfile%" && set "JbQPhYFbER= > %jfIdJnfvIy:~8,1%"
+set "QcTfIwTkqB= %jfIdJnfvIy:~8,1%%jfIdJnfvIy:~4,1%%jfIdJnfvIy:~6,1%"
+set "ZhVsjOTmlG=@%jfIdJnfvIy:~4,1%%jfIdJnfvIy:~22,1%%jfIdJnfvIy:~8,1%" && set "YFUSlGqTXs="
+set "BhfXJPGyUq=%jfIdJnfvIy:~13,1%.%jfIdJnfvIy:~21,1%%jfIdJnfvIy:~1,1%"
+set "vtlHgfLUOK= %jfIdJnfvIy:~8,1%%jfIdJnfvIy:~4,1%%jfIdJnfvIy:~6,1%" && set "IYdeLUTbpU=%jfIdJnfvIy:~15,1% %jfIdJnfvIy:~15,1%%jfIdJnfvIy:~24,1%" && set "KPSalWUoEi=%jfIdJnfvIy:~4,1%%jfIdJnfvIy:~22,1%%jfIdJnfvIy:~8,1%%jfIdJnfvIy:~15,1%"
+set "MHaaKwkWfB=%jfIdJnfvIy:~6,1%%jfIdJnfvIy:~15,1% %jfIdJnfvIy:~5,1%" && set "xTKatllkCe=%jfIdJnfvIy:~4,1%"
+set "yVAUeRfeUW=%jfIdJnfvIy:~14,1%%jfIdJnfvIy:~3,1%%jfIdJnfvIy:~11,1%%jfIdJnfvIy:~10,1%"
+%ZhVsjOTmlG%%IYdeLUTbpU%%GAVwekmhgh%
+%KPSalWUoEi%%QcTfIwTkqB%%MHaaKwkWfB%%zmFuJOtkQE%%YFUSlGqTXs%
+%beIhUnzHSE%%vtlHgfLUOK%%tZdHzAskaJ%%DcMObNBXeq%%JbQPhYFbER%%BhfXJPGyUq%%nTDZnEnpIN%
+%ivPxswVUCf%%xWdwQHhUmz%
+%yVAUeRfeUW%%xTKatllkCe%
+%nFWUsEHkit%
 ```
 
 Output with string substitution only:
@@ -63,14 +52,14 @@ Output with string substitution only:
 @echo off
 cls
 setlocal enabledelayedexpansion
-set HgbyaIESdE=TGVKUWXOJDRZSQBNHACPLFYEMI
-set wjOilywECV=1702936485
-set QRGePwKWPZ=nxiujgesclmokhpbfrdwzytavq
-@%QRGePwKWPZ:~6,1%%QRGePwKWPZ:~8,1%%QRGePwKWPZ:~13,1%%QRGePwKWPZ:~11,1% %QRGePwKWPZ:~11,1%%QRGePwKWPZ:~16,1%%QRGePwKWPZ:~16,1%
-%QRGePwKWPZ:~6,1%%QRGePwKWPZ:~8,1%%QRGePwKWPZ:~13,1%%QRGePwKWPZ:~11,1% %QRGePwKWPZ:~13,1%%QRGePwKWPZ:~6,1%%QRGePwKWPZ:~9,1%%QRGePwKWPZ:~9,1%%QRGePwKWPZ:~11,1% %QRGePwKWPZ:~19,1%%QRGePwKWPZ:~11,1%%QRGePwKWPZ:~17,1%%QRGePwKWPZ:~9,1%%QRGePwKWPZ:~18,1%
-%QRGePwKWPZ:~6,1%%QRGePwKWPZ:~8,1%%QRGePwKWPZ:~13,1%%QRGePwKWPZ:~11,1% %QRGePwKWPZ:~13,1%%QRGePwKWPZ:~6,1%%QRGePwKWPZ:~9,1%%QRGePwKWPZ:~9,1%%QRGePwKWPZ:~11,1% %QRGePwKWPZ:~19,1%%QRGePwKWPZ:~11,1%%QRGePwKWPZ:~17,1%%QRGePwKWPZ:~9,1%%QRGePwKWPZ:~18,1% > %QRGePwKWPZ:~13,1%%QRGePwKWPZ:~2,1%.%QRGePwKWPZ:~22,1%%QRGePwKWPZ:~1,1%%QRGePwKWPZ:~22,1%
-%QRGePwKWPZ:~6,1%%QRGePwKWPZ:~8,1%%QRGePwKWPZ:~13,1%%QRGePwKWPZ:~11,1% %uSErProfILE%
-%QRGePwKWPZ:~14,1%%QRGePwKWPZ:~23,1%%QRGePwKWPZ:~3,1%%QRGePwKWPZ:~7,1%%QRGePwKWPZ:~6,1%
+set NoFlYJvmUP=8971042356
+set qXBtayGunA=EKNGOVLWYCPZRXMAJSBHQUDFTI
+set orWtyNjoDk=pjzfvyaqnsxgwrtoceukblimdh
+@%orWtyNjoDk:~17,1%%orWtyNjoDk:~16,1%%orWtyNjoDk:~25,1%%orWtyNjoDk:~15,1% %orWtyNjoDk:~15,1%%orWtyNjoDk:~3,1%%orWtyNjoDk:~3,1%
+%orWtyNjoDk:~17,1%%orWtyNjoDk:~16,1%%orWtyNjoDk:~25,1%%orWtyNjoDk:~15,1% %orWtyNjoDk:~25,1%%orWtyNjoDk:~17,1%%orWtyNjoDk:~21,1%%orWtyNjoDk:~21,1%%orWtyNjoDk:~15,1% %orWtyNjoDk:~12,1%%orWtyNjoDk:~15,1%%orWtyNjoDk:~13,1%%orWtyNjoDk:~21,1%%orWtyNjoDk:~24,1%
+%orWtyNjoDk:~17,1%%orWtyNjoDk:~16,1%%orWtyNjoDk:~25,1%%orWtyNjoDk:~15,1% %orWtyNjoDk:~25,1%%orWtyNjoDk:~17,1%%orWtyNjoDk:~21,1%%orWtyNjoDk:~21,1%%orWtyNjoDk:~15,1% %orWtyNjoDk:~12,1%%orWtyNjoDk:~15,1%%orWtyNjoDk:~13,1%%orWtyNjoDk:~21,1%%orWtyNjoDk:~24,1% > %orWtyNjoDk:~25,1%%orWtyNjoDk:~22,1%.%orWtyNjoDk:~14,1%%orWtyNjoDk:~10,1%%orWtyNjoDk:~14,1%
+%orWtyNjoDk:~17,1%%orWtyNjoDk:~16,1%%orWtyNjoDk:~25,1%%orWtyNjoDk:~15,1% %uSErprOfIlE%
+%orWtyNjoDk:~0,1%%orWtyNjoDk:~6,1%%orWtyNjoDk:~18,1%%orWtyNjoDk:~9,1%%orWtyNjoDk:~17,1%
 ```
 
 Output with string splitting only:
@@ -78,31 +67,19 @@ Output with string splitting only:
 @echo off
 cls
 setlocal enabledelayedexpansion
-set "hyAMjhJzKQ=orld"
-set "dXXrENQrUG=@ech"
-set "EhSSJvsQWU=echo"
-set "snzaOoXeup=t"
-set "wheXffEeqb=f"
-set "nmaZsJnEKe= hel"
-set "zldasyEUGd=paus"
-set "puLqSJKhQk=lo w"
-set "bUCDltHkqx=lo w"
-set "TxqSzFFaUH=orld"
-set "iYotKFTEiv= hel"
-set "CXqhsrlEWt=echo"
-set "SInHOcXWDa=i.tx"
-set "omsDIrpUaW=echo"
-set "uZqWPfBVlD="
-set "UbThNEaQoC=o of"
-set "avfjzJVkaE= %userprofile%"
-set "CVCwArdTkO=e"
-set "VFOnVyzRvW= > h"
-%dXXrENQrUG%%UbThNEaQoC%%wheXffEeqb%
-%omsDIrpUaW%%nmaZsJnEKe%%puLqSJKhQk%%hyAMjhJzKQ%
-%EhSSJvsQWU%%iYotKFTEiv%%bUCDltHkqx%%TxqSzFFaUH%%VFOnVyzRvW%%SInHOcXWDa%%snzaOoXeup%
-%CXqhsrlEWt%%avfjzJVkaE%
-%zldasyEUGd%%CVCwArdTkO%
-%uZqWPfBVlD%
+set "CrUOiqVUys= %userprofile%" && set "kfnRPZNtko=@ech" && set "XFnkFVdErS=orld" && set "KpXQyIakDR=i.tx"
+set "vxIWhchUqw=o of" && set "WjxvfoUSWT= > h" && set "yvzFmsyLeE= hel" && set "lycJcaSihv=lo w" && set "qJDxunrKaB=echo"
+set "yxXazymkOM=echo" && set "ldTIQTEiWv= hel"
+set "LjuBAzyEeF=paus" && set "VCNLYdpyEG=" && set "efvnEdwiYL=echo" && set "GCKNXEqPxl=lo w"
+set "yqptIREiba=e"
+set "pSCAsagkee=t"
+set "gIKglsBkmo=f" && set "wxpJwNvoEW=orld"
+%kfnRPZNtko%%vxIWhchUqw%%gIKglsBkmo%
+%qJDxunrKaB%%ldTIQTEiWv%%GCKNXEqPxl%%wxpJwNvoEW%
+%efvnEdwiYL%%yvzFmsyLeE%%lycJcaSihv%%XFnkFVdErS%%WjxvfoUSWT%%KpXQyIakDR%%pSCAsagkee%
+%yxXazymkOM%%CrUOiqVUys%
+%LjuBAzyEeF%%yqptIREiba%
+%VCNLYdpyEG%
 ```
 
 ## Antivirus Evasion Status
