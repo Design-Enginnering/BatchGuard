@@ -88,11 +88,12 @@ namespace BatchGuard.Protections
             }
             Debug.Log("Variables generated.", LogType.Info);
 
-            foreach (string sl in setlines.OrderBy(x => rng.Next()).ToArray()) // Write all variables in random order
+            setlines = new List<string>(setlines.OrderBy(x => rng.Next()).ToArray());
+            for (int i = 0; i < setlines.Count; i++) // Write all variables in random order
             {
-                ret += sl;
+                ret += setlines[i];
                 int r = rng.Next(0, 2);
-                if (r == 0) ret += Environment.NewLine;
+                if (r == 0 || i == setlines.Count - 1) ret += Environment.NewLine;
                 else ret += " && ";
             }
 

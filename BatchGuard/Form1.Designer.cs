@@ -195,8 +195,9 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(102, 25);
             this.button5.TabIndex = 9;
-            this.button5.Text = "Save settings";
+            this.button5.Text = "Save config";
             this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button6
             // 
@@ -208,8 +209,9 @@
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(102, 25);
             this.button6.TabIndex = 10;
-            this.button6.Text = "Load settings";
+            this.button6.Text = "Load config";
             this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // Form1
             // 
@@ -227,7 +229,7 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.ShowIcon = false;
-            this.Text = "BatchGuard v0.5.0";
+            this.Text = "BatchGuard v0.6.1";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);

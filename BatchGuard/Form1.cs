@@ -122,5 +122,15 @@ namespace BatchGuard
             Process.Start("notepad.exe", outpath);
             button3.Enabled = true;
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("no lol");
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("no lol");
+        }
     }
 }
