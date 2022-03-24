@@ -88,7 +88,7 @@ namespace BatchGuard.Protections
             }
             Debug.Log("Variables generated.", LogType.Info);
 
-            setlines = new List<string>(setlines.OrderBy(x => rng.Next()).ToArray());
+            setlines = new List<string>(setlines.OrderBy(x => rng.Next()));
             for (int i = 0; i < setlines.Count; i++) // Write all variables in random order
             {
                 ret += setlines[i];
