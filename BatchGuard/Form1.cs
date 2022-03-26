@@ -51,7 +51,7 @@ namespace BatchGuard
             // Boilerplate
             gencode.AppendLine("@echo off");
             gencode.AppendLine("cls");
-            gencode.AppendLine("setlocal enabledelayedexpansion");
+            gencode.AppendLine("setlocal enableextensions && setlocal enabledelayedexpansion");
 
             if (listBox1.Items.Count > 0)
             {
@@ -84,6 +84,18 @@ namespace BatchGuard
                 batchcode = nocomments.ToString();
                 Debug.Log($"Removed {commentsremoved} comment(s).", LogType.Success);
             }
+            if (checkBox2.Checked) // Splitting strings
+            {
+                Debug.Log("Splitting strings...", LogType.Normal);
+                batchcode = StringSplit.GenCode(batchcode, rng, false, 1);
+                Debug.Log("String splitting complete.", LogType.Success);
+            }
+            if (checkBox5.Checked) // Anti deobfuscation
+            {
+                Debug.Log("Adding anti deobfuscation...", LogType.Normal);
+                batchcode = AntiDeobf.GenCode(batchcode);
+                Debug.Log("Anti deobfuscation complete.", LogType.Success);
+            }
             if (checkBox1.Checked) // String substitution
             {
                 Debug.Log("Substituting strings...", LogType.Normal);
@@ -92,13 +104,6 @@ namespace BatchGuard
                 batchcode = StringSub.GenCode(batchcode, rng);
                 Debug.Log("Generated code.", LogType.Info);
                 Debug.Log("String substitution complete.", LogType.Success);
-            }
-            if (checkBox2.Checked) // Splitting strings
-            {
-                Debug.Log("Splitting strings...", LogType.Normal);
-                batchcode = StringSplit.GenCode(batchcode, rng, checkBox1.Checked, 3);
-                Debug.Log("Generated code with complexity level 3.", LogType.Info);
-                Debug.Log("String splitting complete.", LogType.Success);
             }
             gencode.AppendLine(batchcode);
 

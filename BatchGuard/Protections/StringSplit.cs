@@ -13,6 +13,7 @@ namespace BatchGuard.Protections
 
             int amount = 5;
             if (level > 1) amount -= level;
+            amount *= 2;
 
             List<string> setlines = new List<string>();
             List<string[]> linevars = new List<string[]>();
@@ -33,7 +34,7 @@ namespace BatchGuard.Protections
                         {
                             sc += c;
                             i++;
-                            if (i >= amount * 2)
+                            if (i >= amount)
                             {
                                 splitted.Add(sc);
                                 invar = false;
@@ -62,7 +63,7 @@ namespace BatchGuard.Protections
                         }
                         if (!invar)
                         {
-                            if (sc.Length >= amount * 2)
+                            if (sc.Length >= amount)
                             {
                                 splitted.Add(sc);
                                 invar = false;
