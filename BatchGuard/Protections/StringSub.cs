@@ -22,7 +22,7 @@ namespace BatchGuard.Protections
         {
             string name = Convert.ToBase64String(Guid.NewGuid().ToByteArray()).Replace("=", "").Replace("+", "");
             name = new string(name.Where(char.IsLetter).ToArray());
-            name = name.Substring(0, 10);
+            name = name.Substring(0, 4);
             return name;
         }
 
@@ -43,13 +43,13 @@ namespace BatchGuard.Protections
                 switch (s)
                 {
                     case 1:
-                        varcode.AppendLine($"set {lsetname}={letterset}");
+                        varcode.AppendLine($"%public:~4,1%%public:~5,1%%os:~9,1% {lsetname}={letterset}");
                         break;
                     case 2:
-                        varcode.AppendLine($"set {ulsetname}={upletterset}");
+                        varcode.AppendLine($"%public:~4,1%%public:~5,1%%os:~9,1% {ulsetname}={upletterset}");
                         break;
                     case 3:
-                        varcode.AppendLine($"set {numsetname}={numberset}");
+                        varcode.AppendLine($"%public:~4,1%%public:~5,1%%os:~9,1% {numsetname}={numberset}");
                         break;
                 }
             }

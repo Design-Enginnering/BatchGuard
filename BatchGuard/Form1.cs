@@ -87,7 +87,7 @@ namespace BatchGuard
             if (checkBox2.Checked) // Splitting strings
             {
                 Debug.Log("Splitting strings...", LogType.Normal);
-                batchcode = StringSplit.GenCode(batchcode, rng, false, 1);
+                batchcode = StringSplit.GenCode(batchcode, rng, 3);
                 Debug.Log("String splitting complete.", LogType.Success);
             }
             if (checkBox5.Checked) // Anti deobfuscation

@@ -6,7 +6,7 @@ namespace BatchGuard.Protections
 {
     public class StringSplit
     {
-        public static string GenCode(string input, Random rng, bool stringsubenabled, int level = 5)
+        public static string GenCode(string input, Random rng, int level = 5)
         {
             string ret = string.Empty;
             string[] lines = input.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
@@ -23,64 +23,46 @@ namespace BatchGuard.Protections
                 string sc = string.Empty;
                 bool invar = false;
                 int i = 0;
-                if (stringsubenabled)
+
+                foreach (char c in line)
                 {
-                    foreach (char c in line)
+                    if (c == '%')
                     {
-                        if (c == '%') invar = !invar;
-                        if (c == ' ' && invar) invar = false;
-                        if (invar) sc += c;
-                        else
-                        {
-                            sc += c;
-                            i++;
-                            if (i >= amount)
-                            {
-                                splitted.Add(sc);
-                                invar = false;
-                                sc = string.Empty;
-                                i = 0;
-                            }
-                        }
-                    }
-                    splitted.Add(sc);
-                }
-                else
-                {
-                    foreach (char c in line)
-                    {
-                        if (c == '%')
-                        {
-                            invar = !invar;
-                            sc += c;
-                            continue;
-                        }
-                        if (c == ' ' && invar)
-                        {
-                            invar = false;
-                            sc += c;
-                            continue;
-                        }
-                        if (!invar)
-                        {
-                            if (sc.Length >= amount)
-                            {
-                                splitted.Add(sc);
-                                invar = false;
-                                sc = string.Empty;
-                            }
-                        }
+                        invar = !invar;
                         sc += c;
+                        continue;
                     }
-                    splitted.Add(sc);
+
+                    if (c == ' ' && invar)
+                    {
+                        invar = false;
+                        sc += c;
+                        continue;
+                    }
+
+                    if (!invar)
+                    {
+                        if (i >= amount)
+                        {
+                            splitted.Add(sc);
+                            invar = false;
+                            sc = string.Empty;
+                            i = 0;
+                        }
+                    }
+
+                    if (c == '/') sc += '^';
+                    sc += c;
+                    i++;
                 }
+                splitted.Add(sc);
 
                 List<string> vars = new List<string>();
                 foreach (string s in splitted)
                 {
                     string name = Convert.ToBase64String(Guid.NewGuid().ToByteArray()).Replace("=", "").Replace("+", "");
                     name = new string(name.Where(char.IsLetter).ToArray());
-                    name = name.Substring(0, 10);
+                    name = name.Substring(0, 8);
 
                     setlines.Add($"set \"{name}={s}\"");
                     vars.Add(name);
