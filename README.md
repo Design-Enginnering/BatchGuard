@@ -3,6 +3,8 @@ Batch file obfuscation tool made in C#. Features include: string substitution, s
 
 Currently incomplete and many optimisations need to be made.
 
+Join the Discord server for discussion and enquiries: https://discord.gg/RU5RjSe8WN.
+
 ## User interface
 ![image](https://media.discordapp.net/attachments/955850893113298957/956116234016014366/unknown.png)
 
